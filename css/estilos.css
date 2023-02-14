@@ -1,0 +1,24 @@
+:root {
+    --blanco:#ffff;
+    --morado:#ba0aff;
+    --amarillo:#eaff00;
+}
+
+
+
+html{
+    font-size: 62.5%;
+}
+body {
+    font-size: 1,6rem;
+}
+.titulo{
+    text-align: center;
+    font-size: 3.8rem;
+    color: var(--morado);
+
+}
+.titulo span{
+    font-size: 2rem;
+    color: var(--amarillo);
+}
