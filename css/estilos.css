@@ -10,7 +10,8 @@ html{
     font-size: 62.5%;
 }
 body {
-    font-size: 1,6rem;
+    font-size: 2rem;
+    font-family:  'Quicksand', sans-serif;
 }
 .titulo{
     text-align: center;
