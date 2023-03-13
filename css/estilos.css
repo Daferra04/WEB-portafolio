@@ -132,13 +132,14 @@ h1,h2,h3{
     .btn_contact{
         width: auto;
     }
-    .contenedor_main{
-        display: grid;
-        grid-template-columns: repeat(3,1fr);
-        column-gap: 1rem;
-        align-items: baseline;
 
-    }
+     .contenedor_main{
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            column-gap: 1rem;
+            align-items: baseline;
+        }
+
     .btn_form{
         justify-content: flex-end;
     }
