@@ -209,3 +209,31 @@ h1,h2,h3{
 footer{
     text-align: center;
 }
+.imagen_encabezado1{
+    background-image: url("../img/Cyberpunk-2077.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45rem;
+    position: relative;
+}
+.imagen_encabezado2{
+    background-image: url("../img/_______1.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45rem;
+    position: relative;
+}
+.imagen_encabezado3{
+    background-image: url("../img/waneella-pixel-art-city-cyberpunk-hd-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45rem;
+    position: relative;
+}
+.imagen_encabezado4{
+    background-image: url("../img/brick-walls-neon-light-background-rays-glow-211376300.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45rem;
+    position: relative;
+}
